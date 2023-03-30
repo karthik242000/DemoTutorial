@@ -1,1 +1,2 @@
-This is a practice file for Git Tutorial.
+This is a practice file for the Git Tutorial.
+
